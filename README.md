@@ -4,15 +4,13 @@
 
 1. Clone
    ```
-   git clone --recursive ~
+   git clone --recursive <repository url>
    ```
 1. Login
    ```
-   mkdir <project_name>
-   cd <project_name>
    clasp login
    ```
 1. Create Project
    ```
-   clasp create <project_name>
+   clasp create <project name>
    ```
